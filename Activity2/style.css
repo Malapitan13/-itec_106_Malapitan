@@ -1,0 +1,38 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.choices button {
+    font-size: 100px;
+    margin: 20px;
+    border: none;
+    background: none;
+    cursor: pointer;
+    width: 100px; 
+    height: 100px; 
+}
+
+.choices button img {
+    font-size: larger;
+    width: 100px; 
+    height: 100%; 
+    border-radius: 100%; 
+}
+
+.scoreboard {
+    margin-bottom: 20px;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+.win {
+    color: green;
+}
+
+.lose {
+    color: red;
+}
